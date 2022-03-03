@@ -1,8 +1,8 @@
 ### Hi there 👋
-<p float="left">
+<a href="https://github.com/BlueBeret" float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=blueberet&theme=gruvbox&show_icons=true&count_private=true&hide_border=true" height="180px" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueberet&layout=compact&theme=gruvbox&count_private=true" height="180px&hide_border=true" />
-</p>
+</a>
 
 🌱 I’m currently learning Software Programming
 🔭 Exploring the world of computer science
