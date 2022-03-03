@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+![Blueberet's stats](https://github-readme-stats.vercel.app/api?username=blueberet&show_icons=true&theme=radical)
+
+
+🌱 I’m currently learning Software Programming
+🔭 Exploring the world of computer science
 <!--
 **BlueBeret/Blueberet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
