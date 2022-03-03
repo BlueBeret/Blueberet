@@ -1,7 +1,8 @@
 ### Hi there 👋
-
-![Blueberet's stats](https://github-readme-stats.vercel.app/api?username=blueberet&show_icons=true&theme=radical)
-![my top language](https://github-readme-stats.vercel.app/api/top-langs/?username=blueberet&layout=compact&theme=gruvbox")
+<p float="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blueberet&theme=gruvbox&show_icons=true" height="180px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueberet&layout=compact&theme=gruvbox" height="180px" />
+</p>
 
 🌱 I’m currently learning Software Programming
 🔭 Exploring the world of computer science
