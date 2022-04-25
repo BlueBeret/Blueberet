@@ -9,6 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueberet&layout=compact&theme=gruvbox&count_private=true" height="180px&hide_border=true" />
 </a>
 <br>
-[![Bar](https://komarev.com/ghpvc/?username=blueberet&color=blueviolet)
+![Bar](https://komarev.com/ghpvc/?username=blueberet&color=blueviolet)
 [![Foo](https://img.shields.io/github/followers/blueberet?label=follow%20me&style=social)](https://github.com/blueberet)
 <br>
