@@ -23,6 +23,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueberet&layout=compact&theme=gruvbox&count_private=true" height="180px&hide_border=true" />
 </a>
 
-<br>[![www - lurifos.dev](https://img.shields.io/badge/www-lurifos.dev-blueviolet?style=flat)](https://lurifos.dev)  ![Bar](https://komarev.com/ghpvc/?username=blueberet&color=blueviolet)
+<br>[![www - lurifos.dev](https://img.shields.io/badge/www-lurifos.dev-blueviolet?style=flat)](https://lurifos.dev) [![Bar](https://komarev.com/ghpvc/?username=blueberet&color=blueviolet)]()
 [![Foo](https://img.shields.io/github/followers/blueberet?label=follow%20me&style=social)](https://github.com/blueberet)
 <br>
