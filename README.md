@@ -13,10 +13,11 @@
 [![](https://img.shields.io/badge/HEROKU%20-%23430098.svg?&style=flat&logo=heroku&logoColor=white)](https://heroku.com)
 [![](https://img.shields.io/badge/FLASK%20-%23000000.svg?&style=flat&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.1.x/) 
 [![](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-[![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)]
-[![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)]
-[![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)]
+[![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()
+[![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)]()
+[![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)]()
 [![](https://img.shields.io/badge/-and%20more-white)](www.lurifos.dev)
+
 \
 \
 
