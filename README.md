@@ -16,7 +16,7 @@
 [![](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)]()
 [![](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)]()
 [![](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)]()
-[![](https://img.shields.io/badge/-and%20more-white)](www.lurifos.dev)
+[![](https://img.shields.io/badge/-and%20more-white)](https://www.lurifos.dev)
 
 <a href="https://github.com/BlueBeret" float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=blueberet&theme=gruvbox&show_icons=true&count_private=true&hide_border=true" height="180px" />
