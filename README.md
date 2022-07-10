@@ -11,4 +11,5 @@
 <br>
 ![Bar](https://komarev.com/ghpvc/?username=blueberet&color=blueviolet)
 [![Foo](https://img.shields.io/github/followers/blueberet?label=follow%20me&style=social)](https://github.com/blueberet)
+[![www - lurifos.dev](https://img.shields.io/badge/www-lurifos.dev-blueviolet)](https://lurifos.dev)
 <br>
