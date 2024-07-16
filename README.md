@@ -11,8 +11,7 @@
 [![](https://img.shields.io/badge/-and%20more-white)](https://www.lurifos.dev)
 
 <a href="https://github.com/BlueBeret" float="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=blueberet&theme=gruvbox&show_icons=true&count_private=true&hide_border=true" height="180px" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blueberet&layout=compact&theme=gruvbox&count_private=true" height="180px&hide_border=true" />
+  <img align="center" src="https://cataas.com/cat" height="180px" />
 </a>
 
 <br>[![www - lurifos.dev](https://img.shields.io/badge/www-lurifos.dev-blueviolet?style=flat)](https://lurifos.dev) [![Bar](https://komarev.com/ghpvc/?username=blueberet&color=blueviolet)]()
